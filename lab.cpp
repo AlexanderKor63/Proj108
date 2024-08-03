@@ -1,4 +1,6 @@
 #include<stdio.h>
+#include<stdlib.h>
+
 //comment test
 int main() {
 	int num=5;
