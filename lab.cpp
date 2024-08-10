@@ -3,7 +3,7 @@
 
 //comment test
 int main() {
-	int num=12, c=4;
+	int num=12, c=66;
 	num += 7+c;
 	printf("Hello!!");
 }
