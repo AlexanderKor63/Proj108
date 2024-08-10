@@ -5,7 +5,7 @@ echo "url=https://github.com" | git credential reject
 
 
 
-
+test string
 
 
 https://transfiles.ru/updo9
