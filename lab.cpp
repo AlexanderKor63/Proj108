@@ -3,7 +3,9 @@
 
 //comment test
 int main() {
-	int num=12, c=4;
-	num += 7+c;
+
+	int num=12, a=4;
+	num += 7+a;
 	printf("Hello!!");
+
 }
