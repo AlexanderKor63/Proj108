@@ -4,7 +4,7 @@
 
 //comment test
 int main() {
-	int num=12;
-	num += 7;
-	printf("Hello");
+	int num=12, a=5, b;
+	num += a;
+	printf("Test string");
 }
